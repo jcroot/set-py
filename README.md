@@ -8,7 +8,7 @@ Requirements
  
  
 You can execute with
- - node app.sj
+ - node app.js
  
  In a browser
   - http://localhost:3000/?ruc=100000
