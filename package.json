@@ -1,0 +1,11 @@
+{
+	"name": "ruc-py",
+	"version": "1.0.0",
+	"description": "Bind server to check if have RUC enable",
+	"main": "app.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified"\ && exit 1"
+	},
+	"author": "jcroot",
+	"licence": "MIT"
+}
